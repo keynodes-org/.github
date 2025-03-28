@@ -6,7 +6,7 @@ This organization hosts IaC repositories designed specifically for blockchain no
 
 | Role Name | Description | CI Status |
 |-----------|-------------|-----------|
-| [ansible_lodestar](https://github.com/keynodes-org/ansible_lodestar) | Deploy Lodestar Ethereum Consensus Client (Beacon Node & Validator) | ![CI Status](https://github.com/keynodes-org/ansible_lodestar/actions/workflows/ci.yml/badge.svg?branch=main) |
+| [ansible_lodestar](https://github.com/keynodes-org/ansible_lodestar) | Deploy Lodestar Ethereum Consensus Client (Beacon Node & Validator) | [![CI status](https://github.com/keynodes-org/ansible_lodestar/actions/workflows/ci.yml/badge.svg)](https://github.com/keynodes-org/ansible_lodestar/actions/workflows/ci.yml) |
 
 
 ## Contact
